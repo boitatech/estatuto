@@ -21,10 +21,10 @@ A Assembleia Geral é o órgão soberano na comunidade Boitatech; suas decisões
     - Realizar alteração no estatuto;
     - Deliberar sobre a dinâmica da Semana Aratu;
     - Decidir em última instância.
+    
+    **Parágrafo Único**: As decisões referentes ao Artigo 3º são exclusivas da **Assembleia Geral Extraordinária**.
 
 ## **Artigo 4º**
-A Assembleia Geral irá reunir-se ordinariamente a cada seis meses e, extraordinariamente quando convocada pelo Conselho Curupira, ou quando convocada por 1/3 dos Associados Efetivos.
+A Assembleia Geral irá reunir-se ordinariamente a cada três meses e, extraordinariamente quando convocada pelo Conselho Curupira, ou quando convocada por 1/3 dos Associados Efetivos.
 
-**Parágrafo 1º**: A Assembleia Geral será convocada por meio de postagens nas redes sociais oficiais da comunidade Boitatech.
-
-**Parágrafo 2º**: As decisões referentes aos tópicos I, II e IV são exclusivas da **Assembleia Geral Extraordinária**.
+**Parágrafo Único**: A Assembleia Geral será convocada por meio de postagens nas redes sociais e canais de comunicação oficiais da comunidade Boitatech.
