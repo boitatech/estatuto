@@ -7,7 +7,7 @@
 <h1 align="center"> Capítulo I - SOBRE BOITATECH </h1>
 
 ## Artigo 1º
-A Boitatech foi criada em 18 de abril 2020 a partir de um grupo de estudos entre amigos que tinham como foco aprender conteúdos sobre segurança da informação e hacking.
+A Boitatech foi criada em 18 de abril de 2020 a partir de um grupo de estudos entre amigos que tinham como foco aprender conteúdos sobre segurança da informação e hacking.
 
 ## **Artigo 2º**
 A **Comunidade Boitatech** tem como missão ajudar iniciantes em segurança da informação e hacking, com um direcionamento técnico e prático, e na criação de uma networking com grandes empresas e talentos.
