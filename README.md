@@ -7,7 +7,7 @@
 <h1 align="center"> Capítulo I - SOBRE BOITATECH </h1>
 
 ## Artigo 1º
-A Boitatech foi criada em 18/04/2020 a partir de um grupo de estudos entre amigos que tinham como foco aprender conteúdos sobre segurança da informação e hacking.
+A Boitatech foi criada em 18 de abril 2020 a partir de um grupo de estudos entre amigos que tinham como foco aprender conteúdos sobre segurança da informação e hacking.
 
 ## **Artigo 2º**
 A **Comunidade Boitatech** tem como missão ajudar iniciantes em segurança da informação e hacking, com um direcionamento técnico e prático, e na criação de uma networking com grandes empresas e talentos.
@@ -16,13 +16,14 @@ A **Comunidade Boitatech** tem como missão ajudar iniciantes em segurança da i
 A Assembleia Geral é o órgão soberano na comunidade Boitatech; suas decisões serão definidas por maioria simples e será dirigida pelos seus associados efetivos.
 
 ## **Artigo 3º**
-- Direitos da Assembleia Geral:
-    - Eleger o Conselho Curupira;
-    - Realizar alteração no estatuto;
-    - Deliberar sobre a dinâmica da Semana Aratu;
-    - Decidir em última instância.
-    
-    **Parágrafo Único**: As decisões referentes ao Artigo 3º são exclusivas da **Assembleia Geral Extraordinária**.
+
+**Parágrafo Único**: Os direitos da assembleia geral são:
+<ol type="I">
+    <li>Eleger o conselho Curipira;</li>
+    <li>Propor e aprovar alterações no estatuto;</li>
+    <li>Deliberar sobre a realização e dinâmica da semana Aratu;</li>
+    <li>Decidir em ultima instância sobre assuntos referente ao estatuto e código de ética.</li>
+</ol>
 
 ## **Artigo 4º**
 A Assembleia Geral irá reunir-se ordinariamente a cada três meses e, extraordinariamente quando convocada pelo Conselho Curupira, ou quando convocada por 1/3 dos Associados Efetivos.
