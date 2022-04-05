@@ -16,8 +16,7 @@ A **Comunidade Boitatech** tem como missão ajudar iniciantes em segurança da i
 A Assembleia Geral é o órgão soberano na comunidade Boitatech; suas decisões serão definidas por maioria simples e será dirigida pelos seus associados efetivos.
 
 ## **Artigo 3º**
-
-**Parágrafo Único**: Os direitos da assembleia geral são:
+**Parágrafo Único**: As seguintes funções são exclusivas da **Assembleia Geral Extraordinária**.
 <ol type="I">
     <li>Eleger o conselho Curipira;</li>
     <li>Propor e aprovar alterações no estatuto;</li>
