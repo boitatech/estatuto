@@ -18,10 +18,10 @@ A Assembleia Geral é o órgão soberano na comunidade Boitatech; suas decisões
 ## **Artigo 3º**
 **Parágrafo Único**: As seguintes funções são exclusivas da **Assembleia Geral Extraordinária**.
 <ol type="I">
-    <li>Eleger o conselho Curipira;</li>
+    <li>Eleger o conselho Curupira;</li>
     <li>Propor e aprovar alterações no estatuto;</li>
     <li>Deliberar sobre a realização e dinâmica da semana Aratu;</li>
-    <li>Decidir em ultima instância sobre assuntos referente ao estatuto e código de ética.</li>
+    <li>Decidir em última instância sobre assuntos referente ao estatuto e código de ética.</li>
 </ol>
 
 ## **Artigo 4º**
