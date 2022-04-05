@@ -13,7 +13,7 @@ A Boitatech foi criada em 18/04/2020 a partir de um grupo de estudos entre amigo
 A **Comunidade Boitatech** tem como missão ajudar iniciantes em segurança da informação e hacking com um direcionamento técnico e prático, e na criação de uma networking com grandes empresas e talentos.
 
 <h1 align="center"> Capítulo II - ASSEMBLEIA GERAL </h1>
-A Assembleia Geral é o órgão soberano na comunidade Boitatech, suas decisões serão definidas por maioria simples e será dirigida por um Associado Efetivo.
+A Assembleia Geral é o órgão soberano na comunidade Boitatech, suas decisões serão definidas por maioria simples e será dirigida pelos seus associados efetivos.
 
 ## **Artigo 3º**
 - Direitos da Assembleia Geral:
