@@ -15,19 +15,20 @@ A **Comunidade Boitatech** tem como missão ajudar iniciantes em segurança da i
 <h1 align="center"> Capítulo II - ESTRUTURA </h1>
 
 ## **Artigo 3º**
-A Boitatech se dívidi em dois típos de participantes:
-<ol type="I">
-    <li><b>Associado:</b> membros plenos participantes da comunidade e com direito de participar das decisões e reuniões;</li>
-    <li><b>Não associados:</b> participante dos grupos e da comunidade, mas sem direito de participar das decisões e reuniões.</li>
-</ol>
+A **Comunidade Boitatech** se divide em dois tipos de participantes:
+
+- Associados: membros plenos participantes da comunidade e com direito de participar das decisões e reuniões;
+- Não associados: participante dos grupos e da comunidade, mas sem direito de participar das decisões e reuniões.
 
 **Parágrafo Único**: Um membro não associado poderá se tornar um associado através do apadrinhamento de um membro associado.
 
 ## **Artigo 4º**
 Dos direitos dos associados:
+
 - Votar ou ser votado na assembleia geral;
 - Apadrinhar novos associados;
-- Ser tornar um guardiào de um projeto da comunidade
+- Ser tornar um guardião de um projeto da comunidade.
+
 
 <h1 align="center"> Capítulo III - ASSEMBLEIA GERAL </h1>
 A Assembleia Geral é o órgão soberano na comunidade Boitatech; suas decisões serão definidas por maioria simples e será dirigida pelos seus associados efetivos.
