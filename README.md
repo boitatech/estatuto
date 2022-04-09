@@ -34,7 +34,7 @@ São DEVERES dos Associados:
 
 - Participar das reuniões e tomar voz em qualquer decisão deliberativa ou administrativa;
 - Respeitar o regimento interno e o código de conduta;
-- Assumir cargos administrativos na organização;
+- Assumir cargos administrativos na organização de eventos;
 - Zelar pelo nome da Boitatech como instituição.
 
 <h1 align="center"> Capítulo III - ASSEMBLEIA GERAL </h1>
