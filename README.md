@@ -12,10 +12,10 @@ A Boitatech foi criada em 18 de abril de 2020 a partir de um grupo de estudos en
 ## **Artigo 2º**
 A **Comunidade Boitatech** tem como missão ajudar iniciantes em segurança da informação e hacking, com um direcionamento técnico e prático, e na criação de uma networking com grandes empresas e talentos.
 
-<h1 align="center"> Capítulo II - ESTRUTURA </h1>
+<h1 align="center"> Capítulo II - SOBRE OS ASSOCIADOS </h1>
 
 ## **Artigo 3º**
-A **Comunidade Boitatech** se divide em dois tipos de participantes:
+A **Comunidade Boitatech** se divide em dois tipos de associados:
 
 - Associados: membros plenos participantes da comunidade e com direito de participar das decisões e reuniões;
 - Não associados: participante dos grupos e da comunidade, mas sem direito de participar das decisões e reuniões.
