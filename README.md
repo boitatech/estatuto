@@ -14,7 +14,7 @@ A **Comunidade Boitatech** tem como missão ajudar iniciantes em segurança da i
 
 <h1 align="center"> Capítulo II - ESTRUTURA </h1>
 
-## **Artigo 1º**
+## **Artigo 3º**
 A Boitatech se dívidi em dois típos de participantes:
 <ol type="I">
     <li><b>Associado:</b> membros plenos participantes da comunidade e com direito de participar das decisões e reuniões;</li>
@@ -23,7 +23,7 @@ A Boitatech se dívidi em dois típos de participantes:
 
 **Parágrafo Único**: Um membro não associado poderá se tornar um associado através do apadrinhamento de um membro associado.
 
-## **Artigo 2º**
+## **Artigo 4º**
 Dos direitos dos associados:
 - Votar ou ser votado na assembleia geral;
 - Apadrinhar novos associados;
@@ -32,7 +32,7 @@ Dos direitos dos associados:
 <h1 align="center"> Capítulo III - ASSEMBLEIA GERAL </h1>
 A Assembleia Geral é o órgão soberano na comunidade Boitatech; suas decisões serão definidas por maioria simples e será dirigida pelos seus associados efetivos.
 
-## **Artigo 1º**
+## **Artigo 5º**
 **Parágrafo Único**: As seguintes funções são exclusivas da **Assembleia Geral Extraordinária**.
 <ol type="I">
     <li>Eleger o conselho Curupira;</li>
@@ -41,7 +41,7 @@ A Assembleia Geral é o órgão soberano na comunidade Boitatech; suas decisões
     <li>Decidir em última instância sobre assuntos referente ao estatuto e código de ética.</li>
 </ol>
 
-## **Artigo 2º**
+## **Artigo 6º**
 A Assembleia Geral irá reunir-se ordinariamente a cada três meses e, extraordinariamente quando convocada pelo Conselho Curupira, ou quando convocada por 1/3 dos Associados Efetivos.
 
 **Parágrafo Único**: A Assembleia Geral será convocada por meio de postagens nas redes sociais e canais de comunicação oficiais da comunidade Boitatech.
