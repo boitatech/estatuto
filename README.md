@@ -23,9 +23,9 @@ A **Comunidade Boitatech** se divide em dois tipos de associados:
 ## **Artigo 4º**
 São DIREITOS dos Associados:
 
-- Se tornar um guardião de um projeto da comunidade;
-- Votar ou ser votado na assembleia geral;
-- Requerer assento no Conselho Curupira;
+- Se tornar guardião de um projeto da comunidade;
+- Votar ou ser votado na Assembleia Geral;
+- Requerer assento no Conselho;
 - Apadrinhar novos associados.
 
 ## **Artigo 5º**
@@ -35,7 +35,7 @@ São DEVERES dos Associados:
 - Honrar de forma pontual as suas contribuições para a comunidade;
 - Assumir cargos administrativos na organização de eventos;
 - Respeitar o regimento interno e o código de conduta;
-- Zelar pelo nome da Boitatech como instituição;
+- Zelar pelo nome da Boitatech como comunidade;
 - Cumprir e fazer cumprir o presente Estatuto.
 
 ## **Artigo 6º**
