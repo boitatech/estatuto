@@ -72,4 +72,16 @@ Poderá ocupar uma posição no Conselho Tupã qualquer Associado que tenha a ap
 
 **Parágrafo 2º**: Terá o seu cargo removido qualquer associado que se ausentar 03 (três) ou mais reuniões sem justificativa aceita pela maioria dos associados presentes.
 
+## **Artigo 10º**
+São COMPETÊNCIAS do Conselho Tupã:
+
+- Aprovar e apresentar um relatório que tenha a prestação de contas em relação aos eventos da comunidade;
+- Decidir sobre a participação oficial da comunidade em eventos presenciais e/ou onlines;
+- Encaminhar possíveis alterações do Estatuto para a Assembleia Geral;
+- Deliberar sobre o recebimento de doações e/ou patrocínios;
+- Cumprir e fazer cumprir as decisões da Assembleia Geral;
+- Decidir sobre casos omissos deste Estatuto Social;
+- Elaborar, aprovar e alterar o Regimento Interno;
+- Convocar a Assembleia Geral Extraordinária;
+- Zela pelo comprimento do presente Estatuto.
 
