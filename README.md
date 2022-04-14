@@ -86,4 +86,10 @@ São COMPETÊNCIAS do Conselho Tupã:
 - Zela pelo comprimento do presente Estatuto.
 
 ## **Artigo 11º**
-**Parágrafo Único**: Este Estatuto entra em vigor somente após o commit com a assinatura dos administradores presentes.
+O Conselho Tupã irá se reunir ordinariamente com a periodicidade estabelecida no presente Estatuto e/ou extraordinariamente, por situações omissas deste estatuto.
+
+**Parágrafo 1º**: As reuniões ordinárias do Conselho Tupã deverão ocorrer, uma vez a cada dois meses.
+
+**Parágrafo 2º**: As reuniões extraordinárias do Conselho Tupã deverão ser convocadas por meio de postagens nas redes sociais e canais de comunicação oficiais da comunidade Boitatech.
+
+**Parágrafo 3º**: Após qualquer reunião do Conselho Tupã, deverá ser disponibilizada uma Ata da reunião em um repositório na organização Boitatech na plataforma GitHub sempre de forma pública.
