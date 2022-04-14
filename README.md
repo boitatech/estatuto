@@ -85,3 +85,5 @@ São COMPETÊNCIAS do Conselho Tupã:
 - Convocar a Assembleia Geral Extraordinária;
 - Zela pelo comprimento do presente Estatuto.
 
+## **Artigo 11º**
+**Parágrafo Único**: Este Estatuto entra em vigor somente após o commit com a assinatura dos administradores presentes.
