@@ -5,5 +5,13 @@ Esperamos que todas as pessoas frequentadoras do Garoa participem de nossas ativ
 ## Denúncia
 Quando identificar qualquer violação do código de conduta notifique os responsáveis imediatamente e preferencialmente com as evidências do ocorrido para que possamos analisar e determinar o que fazer.
 ## Violações
+- Discriminação por qualquer motivo;
+- Bullying, agressão, assédio  a qualquer um associado ou não;
+- Denegrir o nome de um associado ou da comunidade em qualquer meio;
+- Utilizar o nome da comunidade para qualquer ação, legal ou não, sem o consentimento de seus participantes;
 ## Tratamento
+Toda violação ao código de conduta deverá ser analisado pelo concelho tupã gerando uma das seguintes medidas administrativas:
+- Suspensão;
+- Expulsão.
 ## Responsáveis
+- Antony Leite (G4L1T0)
