@@ -22,7 +22,7 @@ Quando identificar qualquer violação do código de conduta notifique os respon
 - Utilizar o nome da comunidade para qualquer ação, legal ou não, sem o consentimento de seus participantes;
 
 <h1 align="center"> TRATAMENTO </h1>
-Toda violação ao código de conduta deverá ser analisado pelo concelho tupã gerando uma das seguintes medidas administrativas:
+Toda violação ao código de conduta deverá ser analisado pelo conselho tupã gerando uma das seguintes medidas administrativas:
 
 - Suspensão;
 - Expulsão.
