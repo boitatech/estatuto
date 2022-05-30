@@ -17,8 +17,8 @@ A **Comunidade Boitatech** tem como missão ajudar iniciantes em segurança da i
 ## **Artigo 3º**
 A **Comunidade Boitatech** se divide em dois tipos de associados:
 
-- Associados: membros plenos participantes da comunidade e com direito de participar das decisões e reuniões;
-- Não associados: participante dos grupos e da comunidade, mas sem direito de participar das decisões e reuniões.
+- Membros: participante dos grupos e da comunidade, mas sem direito de participar das decisões e reuniões;
+- Associados: membros participantes da comunidade e com direito de participar das decisões e reuniões.
 
 ## **Artigo 4º**
 São DIREITOS dos Associados:
@@ -58,7 +58,7 @@ A Assembleia Geral é o órgão soberano na comunidade Boitatech; suas decisões
 </ol>
 
 ## **Artigo 8º**
-A Assembleia Geral irá reunir-se ordinariamente a cada três meses e, extraordinariamente quando convocada pelo Conselho Tupã, ou quando convocada por 1/3 dos Associados Efetivos.
+A Assembleia Geral irá reunir-se ordinariamente a cada três meses e, extraordinariamente quando convocada pelo Conselho Tupã, ou quando convocada por 1/3 dos Associados.
 
 **Parágrafo Único**: A Assembleia Geral será convocada por meio de postagens nas redes sociais e canais de comunicação oficiais da comunidade Boitatech.
 
