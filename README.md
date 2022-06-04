@@ -60,7 +60,7 @@ A Assembleia Geral é o órgão soberano na comunidade Boitatech; suas decisões
 ## **Artigo 8º**
 A Assembleia Geral irá reunir-se ordinariamente a cada três meses e, extraordinariamente quando convocada pelo Conselho Tupã, ou quando convocada por 1/3 dos Associados.
 
-**Parágrafo Único**: A Assembleia Geral será convocada por meio de postagens nas redes sociais e canais de comunicação oficiais da comunidade Boitatech.
+**Parágrafo Único**: A Assembleia Geral será convocada por meio de postagens nas redes sociais e canais de comunicação oficiais da comunidade Boitatech, sendo eles: [Instagram](https://www.instagram.com/boitatech/), [Discord](https://discord.gg/boitatech), [Twitter](https://twitter.com/boitatech) e [Telegram](https://t.me/joinchat/KTtBv0wfkGHxPQhrbrE1Hw).
 
 <h1 align="center"> Capítulo IV - CONSELHO TUPÃ </h1>
 O Conselho Tupã é responsável pela construção e manutenção dos objetivos sociais da comunidade Boitatech como o planejamento de eventos, financeiro e o desenvolvimento das relações da comunidade com a sociedade civil.
